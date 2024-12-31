@@ -1,0 +1,6 @@
+name: Kurosaki
+version: '1.0-SNAPSHOT'
+main: git.havensgames.Main
+commands:
+  example:
+    aliases: [ej]
